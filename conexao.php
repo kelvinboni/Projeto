@@ -8,7 +8,7 @@ error_reporting(E_ALL);
 $servername = "localhost";
 $database = "db";
 $username="root";
-$password="3dfx021Ba";
+$password="";
 $conexao=mysqli_connect($servername, $username, $password, $database);
 
 
